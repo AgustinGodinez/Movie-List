@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 export const Editar = ({
   peli,
   conseguirPeliculas,
